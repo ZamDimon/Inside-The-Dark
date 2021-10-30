@@ -1,4 +1,4 @@
-# Inside-The-Dark
+# Inside The Dark
 
 <img src="https://user-images.githubusercontent.com/29094239/139559423-dcab530c-7eb9-4d87-a451-fa8a5cd8c93e.png" style="display:block;margin-left: auto;margin-right: auto;width: 50%;"/>
 
