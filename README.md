@@ -4,6 +4,8 @@
 
 **Inside The Dark** is a dungeon-crawler turn-based videogame about exploring the dark dungeon made in *Unity*. I did this project with a team of 3 people, in which I was the leader and programmer. In the beginning, we developed this game specifically for the *ITalent* competition. We made the first version in literally two months and took the **5th** place nationally among 30+ projects.
 
+You can watch the trailer [here](https://www.youtube.com/watch?v=A6j2XfqPh4k).
+
 ## Contents
 I included two main folders in this repository: `Scripts` and *rar* folder `Inside the Dark Build.rar`. In the folder `Scripts` you can review some of the scripts I have written for the project. It is important to note that these are not all the scripts in the game (in fact, there are more than **110** scripts in this project).
 
