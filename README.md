@@ -16,7 +16,7 @@ I included two main folders in this repository: `Scripts` and *rar* folder `Insi
 
 ## How to play the game?
 
-Your end goal is to *find the room with the exit room*. 
+Your end goal is to *find the room with the exit*. 
 
 ### Interface
 After the character creation and introductory cutscene, you will see the following menu:
@@ -42,14 +42,14 @@ After the character creation and introductory cutscene, you will see the followi
 ### Moving
 You can move your character *outside the battle* by pressing `A` and `D`. To move to the other room, you should select the adjacent room (see figure below). This way you will be translated to the corridor which you have to pass. You can travel **only** to adjacent rooms and while being in the room outside the fight. 
 
-<img src="https://user-images.githubusercontent.com/29094239/139559979-7b758b40-82e6-42e4-94d0-23fb55f4b97f.PNG" style="display:block;margin-left: auto;margin-right: auto;width: 50%;"/>
+<img src="https://user-images.githubusercontent.com/29094239/139559979-7b758b40-82e6-42e4-94d0-23fb55f4b97f.PNG" style="display:block;margin-left: auto;margin-right: auto;width: 100%;"/>
 
 ### Fighting
 As mentioned before, *Inside the Dark* is a turn-based game. During the fight, you will see the turn order (see number 1 on the figure below). When you get the turn, you will get from 1 to 4 action points (1 usage of any skill = 1 action point, see number 2 on the figure below). In the beginning, you can only get either 1 or 2 action points. However, you can upgrade the corresponding skill in the *skill tree* to be able to get more points.
 
 Your goal is to kill all the enemies using your skills on the *skill panel* (number 5 on the figure with game interface). When you unlock passive skills, you will see them on the panel under number 3 (again, see figure below). 
 
-<img src="https://user-images.githubusercontent.com/29094239/139560144-98305cfd-c9fc-4d9b-86c6-40fd394d1b79.PNG" style="display:block;margin-left: auto;margin-right: auto;width: 80%;"/>
+<img src="https://user-images.githubusercontent.com/29094239/139560144-98305cfd-c9fc-4d9b-86c6-40fd394d1b79.PNG" style="display:block;margin-left: auto;margin-right: auto;width: 100%;"/>
 
 **Have fun!** 
 
